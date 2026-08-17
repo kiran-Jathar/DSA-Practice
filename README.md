@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
