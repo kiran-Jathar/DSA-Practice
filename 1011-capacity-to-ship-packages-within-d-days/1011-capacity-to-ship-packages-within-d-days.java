@@ -6,11 +6,13 @@ class Solution {
         int day=1;
 
         for(int i=0;i<n;i++){
-            sum+=weights[i];
-
-            if(sum>capacity){
+            
+            if(sum+weights[i]>capacity){
                 day++;
                 sum=weights[i];
+            }
+            else{
+                sum+=weights[i];
             }
         }
         return day;
