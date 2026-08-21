@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
+| [0875-koko-eating-bananas](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1854-maximum-population-year](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1854-maximum-population-year) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Counting
