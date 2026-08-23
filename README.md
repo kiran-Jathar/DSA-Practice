@@ -35,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
