@@ -1,33 +1,34 @@
 class Solution {
 
+    public boolean isPossible(int[] piles, int h, int k) {
+
+        long hours = 0;
+
+        for(int i = 0; i < piles.length; i++) {
+            hours += Math.ceil((double)piles[i] / k);
+        }
+
+        return hours <= h;
+    }
+
     public int minEatingSpeed(int[] piles, int h) {
 
-        int maxPile = 0;
+        int low = 1;
+        int high = 0;
 
-        for (int x : piles) {
-            maxPile = Math.max(maxPile, x);
+        for(int i = 0; i < piles.length; i++) {
+            high = Math.max(high, piles[i]);
         }
-        
-        int low=1;
-        int high=maxPile;
-        int ans=0;
 
-        while(low<=high) {
+        while(low <= high) {
 
-            int mid=low+(high-low)/2;
-            long hour=0;
-            
-            for (int j = 0; j < piles.length; j++) {
+            int mid = low + (high - low) / 2;
 
-                hour += (long) Math.ceil((double) piles[j] / mid);  
-            } 
-
-            if (hour <= h) {
-                ans=mid;
-                high=mid-1;
+            if(isPossible(piles, h, mid)) {
+                high = mid - 1;
             }
-            else{
-                low=mid+1;
+            else {
+                low = mid + 1;
             }
         }
 
