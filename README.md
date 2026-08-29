@@ -38,9 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
