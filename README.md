@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0704-binary-search](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
