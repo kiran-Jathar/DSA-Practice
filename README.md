@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
