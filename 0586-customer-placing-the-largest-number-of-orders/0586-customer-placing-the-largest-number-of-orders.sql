@@ -1,5 +1,8 @@
-select customer_number
-from Orders 
-group by customer_number
-order by count(order_number) desc
-limit 1;
+# Write your MySQL query statement below
+
+# asa couster jyane largest number of order place kelet
+
+SELECT customer_number FROM Orders
+GROUP BY customer_number 
+ORDER BY COUNT(customer_number) DESC
+LIMIT 1;
