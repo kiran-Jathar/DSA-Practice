@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1907-count-salary-categories) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
