@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1854-maximum-population-year](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1854-maximum-population-year) |
 ## Two Pointers
@@ -121,8 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0136-single-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
