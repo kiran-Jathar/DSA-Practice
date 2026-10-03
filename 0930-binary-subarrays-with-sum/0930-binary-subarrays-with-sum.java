@@ -1,7 +1,7 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         
-        // sum-k == present in map
+        // sum-k == present in map  ==> its perfect subarrray
 
         HashMap<Integer,Integer> map=new HashMap<>();
 
