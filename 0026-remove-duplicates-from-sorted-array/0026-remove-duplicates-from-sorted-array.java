@@ -1,17 +1,21 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int low=0;
-        int high=0;
-        int n=nums.length;
+          // same direction two pointer
 
-        while(high<n){
 
-            if(nums[low]!=nums[high]){
+          int low=0;
+          int high=0;
+          int n=nums.length;
+
+        while(high<n) {
+            if(nums[low]==nums[high]){
+                high++;
+            }
+            else if(nums[low]!=nums[high]){
                 low++;
                 nums[low]=nums[high];
             }
-            high++;
-        }
+          }
         return low+1;
     }
 }
