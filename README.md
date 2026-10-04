@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0704-binary-search) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -128,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
