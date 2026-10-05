@@ -1,10 +1,10 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int low=0;
-        int high=0;
+        int high=1;
         int n=nums.length;
         Arrays.sort(nums);
-        int count=0;
+        int count=1;
 
         while(high<n){
             if(nums[low] ==nums[high]){
