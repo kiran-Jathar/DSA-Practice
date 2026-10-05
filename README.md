@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
@@ -146,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
