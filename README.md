@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
