@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
