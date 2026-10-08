@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
