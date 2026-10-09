@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
