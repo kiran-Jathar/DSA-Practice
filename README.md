@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
