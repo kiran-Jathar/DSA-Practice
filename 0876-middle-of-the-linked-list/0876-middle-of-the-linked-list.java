@@ -10,21 +10,19 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-
-        // single node asel OR empty means head==null asel tr return head
-        if(head==null || head.next==null){  
+        
+        if(head==null || head.next==null){
             return head;
         }
 
-        // slow fast pointer
+
         ListNode slow=head;
         ListNode fast=head;
 
-        while(fast !=null && fast.next!=null){
-            slow=slow.next;
+        while(fast!=null && fast.next!=null){
             fast=fast.next.next;
+            slow=slow.next;
         }
-
         return slow;
     }
 }
