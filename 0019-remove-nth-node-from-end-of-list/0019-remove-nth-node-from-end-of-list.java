@@ -23,9 +23,9 @@ class Solution {
             trav = trav.next;
         }
         
-    //    if (trav != null && trav.next != null) {
+       if (trav != null && trav.next != null) {  // for safety
             trav.next = trav.next.next;
-        // }
+        }
 
         return head;
     }
