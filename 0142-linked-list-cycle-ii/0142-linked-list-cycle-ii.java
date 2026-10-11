@@ -27,7 +27,7 @@ public class Solution {
             }
         }   
 
-        if(hasCycle==false){
+        if(hasCycle==false){  // cycle nasel tr return null
             return null;
         }
         
@@ -39,7 +39,7 @@ public class Solution {
         if(slow==fast){
             return slow;
         }
-        
+
         return null;
     }
 }
