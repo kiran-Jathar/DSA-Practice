@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
