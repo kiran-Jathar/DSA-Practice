@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kiran-Jathar/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
