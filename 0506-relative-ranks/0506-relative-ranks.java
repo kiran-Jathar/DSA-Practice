@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
     public String[] findRelativeRanks(int[] arr) {
+
         int n = arr.length;
         HashMap<Integer, Integer> map = new HashMap<>();
         String[] ans = new String[n];
