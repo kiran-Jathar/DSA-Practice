@@ -1,0 +1,29 @@
+class Solution {
+    public boolean isGood(int[] nums) {
+
+        int maxi=-1;
+        Arrays.sort(nums);
+
+        maxi = Arrays.stream(nums).max().getAsInt();
+
+        if(maxi+1 != nums.length){
+            return false;
+        }
+        int n=nums.length;
+        int count=0;
+
+
+        for(int i=1;i<n-1;i++){
+            if(nums[i]==nums[i-1]){
+                return false;
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(nums[i]==maxi){
+                count++;
+            }
+            if(count==2)return true;
+        }
+        return false;
+    }
+}
