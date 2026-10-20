@@ -1,18 +1,19 @@
 class Solution {
     public boolean isGood(int[] nums) {
 
-        
         int n=nums.length;
-        Arrays.sort(nums);
+
+        Arrays.sort(nums); //
 
         int maxi=nums[n-1];
 
-        if(maxi+1 != nums.length){ // 877
+        if(maxi+1 != n){ // [9,9]
             return false;
         }
+
         int count=0;
 
-        for(int i=1;i<n-1;i++){
+        for(int i=1;i<n-1;i++){  // duplicate [1,3,3,1]
             if(nums[i]==nums[i-1]){
                 return false;
             }
