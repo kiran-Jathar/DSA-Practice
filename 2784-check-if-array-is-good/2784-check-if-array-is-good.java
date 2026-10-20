@@ -7,11 +7,10 @@ class Solution {
 
         int maxi=nums[n-1];
 
-        if(maxi+1 != nums.length){
+        if(maxi+1 != nums.length){ // 877
             return false;
         }
         int count=0;
-
 
         for(int i=1;i<n-1;i++){
             if(nums[i]==nums[i-1]){
