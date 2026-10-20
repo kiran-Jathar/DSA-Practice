@@ -18,6 +18,7 @@ class Solution {
                 return false;
             }
         }
+        
         for(int i=0;i<n;i++){
             if(nums[i]==maxi){
                 count++;
