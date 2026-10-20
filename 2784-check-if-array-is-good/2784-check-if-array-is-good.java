@@ -1,13 +1,11 @@
 class Solution {
     public boolean isGood(int[] nums) {
 
-        int maxi=-1;
+        
         int n=nums.length;
         Arrays.sort(nums);
 
-        maxi=nums[n-1];
-        // maxi = Arrays.stream(nums).max().getAsInt();
-
+        int maxi=nums[n-1];
 
         if(maxi+1 != nums.length){
             return false;
