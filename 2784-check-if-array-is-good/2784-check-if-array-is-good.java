@@ -2,14 +2,16 @@ class Solution {
     public boolean isGood(int[] nums) {
 
         int maxi=-1;
+        int n=nums.length;
         Arrays.sort(nums);
 
-        maxi = Arrays.stream(nums).max().getAsInt();
+        maxi=nums[n-1];
+        // maxi = Arrays.stream(nums).max().getAsInt();
+
 
         if(maxi+1 != nums.length){
             return false;
         }
-        int n=nums.length;
         int count=0;
 
 
@@ -18,7 +20,7 @@ class Solution {
                 return false;
             }
         }
-        
+
         for(int i=0;i<n;i++){
             if(nums[i]==maxi){
                 count++;
