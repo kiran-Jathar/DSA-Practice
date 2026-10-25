@@ -2,48 +2,61 @@ import java.util.*;
 
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
+
+        // Use Deque as a stack to store surviving asteroids
         Deque<Integer> st = new ArrayDeque<>();
-        ArrayList<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < asteroids.length; i++) {
-            int ele = asteroids[i];
+        // Process each asteroid one by one
+        for (int a : asteroids) {
 
-            // Negative asteroid
-            if (ele < 0) {
-                int n = Math.abs(ele);
-                boolean isDestroyed = false;
+            // Collision is possible only when:
+            // 1. Stack is not empty
+            // 2. Current asteroid moves left (negative)
+            // 3. Stack's top asteroid moves right (positive)
+            while (!st.isEmpty() && a < 0 && st.peek() > 0) {
 
-                while (!st.isEmpty() && st.peek() > 0 && st.peek() <= n) {
+                // Add sizes with their signs to determine the winner
+                int sum = a + st.peek();
 
-                    if (st.peek() == n) {
-                        st.pop();
-                        isDestroyed = true;
-                        break;
-                    }
-
+                if (sum < 0) {
+                    // Current negative asteroid is bigger
+                    // Destroy the stack's top asteroid
                     st.pop();
-                }
 
-                if (!st.isEmpty() && st.peek() > 0) {
-                    isDestroyed = true;
-                }
+                    // Continue checking for another possible collision
+                } 
+                else if (sum > 0) {
+                    // Stack's top asteroid is bigger
+                    // Current asteroid is destroyed
+                    a = 0;
+                    break;
+                } 
+                else {
+                    // Both asteroids have equal size
+                    // Destroy the stack's top asteroid
+                    st.pop();
 
-                if (!isDestroyed) {
-                    st.push(ele);
+                    // Mark current asteroid as destroyed too
+                    a = 0;
                 }
-            } 
-            else {
-                // Positive asteroid
-                st.push(ele);
+            }
+
+            // Push the current asteroid only if it survived
+            if (a != 0) {
+                st.push(a);
             }
         }
 
+        // Create the result array containing surviving asteroids
         int[] ans = new int[st.size()];
 
-        for (int i = st.size() - 1; i >= 0; i--) {
+        // Stack pops from top to bottom.
+        // Fill the array backwards to preserve the original order.
+        for (int i = ans.length - 1; i >= 0; i--) {
             ans[i] = st.pop();
         }
 
+        // Return the surviving asteroids
         return ans;
     }
 }
