@@ -2,7 +2,7 @@
 class Solution {
 
     // Prev Smaller ele Index 
-    
+
     public static int[] getPSE(int[] arr, int n) {
         Stack<Integer> st = new Stack<>();
         int[] result = new int[n];
@@ -38,13 +38,13 @@ class Solution {
 
     public int sumSubarrayMins(int[] arr) {
         int n = arr.length;
+
         // Store in that
         int[] PSE = getPSE(arr, n);
         int[] NSE = getNSE(arr, n);
 
         long sum = 0;
-        int M = 1_000_000_007;  // modulo
-
+        int M = 1000000007;
         for (int i = 0; i < n; i++) {
             // curr index minus PSE index of that curr index
             // tyalmul tya ele cha left la kiti small element ahet te smjat
