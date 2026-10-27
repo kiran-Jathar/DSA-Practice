@@ -2,7 +2,7 @@
 class Solution {
 
     // Prev Smaller ele Index 
-
+    // indexx push kele ahet
     public static int[] getPSE(int[] arr, int n) {
         Stack<Integer> st = new Stack<>();
         int[] result = new int[n];
@@ -19,6 +19,7 @@ class Solution {
     }
 
     // NEXT Smaller Element
+    // index push kele ahet
     public static int[] getNSE(int[] arr, int n) {
         Stack<Integer> st = new Stack<>();
         int[] result = new int[n];
