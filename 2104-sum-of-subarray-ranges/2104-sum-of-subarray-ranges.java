@@ -53,6 +53,7 @@ public class Solution {
                 st.pop();
             }
             NGI[i] = st.isEmpty() ? n : st.peek();
+            
             st.push(i);
         }
         return NGI;
@@ -67,20 +68,29 @@ public class Solution {
 
          System.out.print(Arrays.toString(PSI)); 
          System.out.print(Arrays.toString(NSI)); 
-
          System.out.print(Arrays.toString(PGI)); 
          System.out.print(Arrays.toString(NGI));
 
-        long totalSum = 0;
+        long totalSum  = 0;
 
         for (int i = 0; i < n; i++) {
-            // Number of subarrays where nums[i] is the maximum
-            long maxCount = (long) (i - PGI[i]) * (NGI[i] - i);
-            
-            // Number of subarrays where nums[i] is the minimum
-            long minCount = (long) (i - PSI[i]) * (NSI[i] - i);
+            // 1. Number of subarrays where nums[i] is maximum
+            long maxCount = (long)(i - PGI[i]) * (NGI[i] - i);
 
-            totalSum += (maxCount - minCount) * nums[i];
+            // 2. Number of subarrays where nums[i] is minimum
+            long minCount = (long)(i - PSI[i]) * (NSI[i] - i);
+
+            // 3. Maximum contribution
+            long maxContribution = nums[i] * maxCount;
+
+            // 4. Minimum contribution
+            long minContribution = nums[i] * minCount;
+
+            // 5. Calculate net contribution
+            long contribution = maxContribution - minContribution;
+
+            // 6. Add to total sum
+            totalSum += contribution;
         }
 
         return totalSum;
