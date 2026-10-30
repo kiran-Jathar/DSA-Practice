@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
@@ -294,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiran-Jathar/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
