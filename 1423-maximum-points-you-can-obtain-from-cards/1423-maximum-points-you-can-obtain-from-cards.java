@@ -14,21 +14,27 @@ class Solution {
         int leftsum = 0;
 
         // Initially select k cards from left
-        for (int i = 0; i < k; i++) {
-            leftsum += cardPoints[i];
+        while (low < k) {
+            leftsum += cardPoints[low];
+            low++;
         }
+        // low k var asnar
 
         int maxSum = leftsum;
 
-        // Replace left cards with right cards
-        while (low < k) {
+        low = k - 1;
+        // low 3-1=2
+        
+        // low = 0 1 2 
 
-            leftsum -= cardPoints[k - 1 - low];
+        while (low >= 0) {
+
+            leftsum -= cardPoints[low];
 
             leftsum += cardPoints[high];
 
             high--;
-            low++;
+            low--;
 
             maxSum = Math.max(maxSum, leftsum);
         }
