@@ -33,13 +33,12 @@ class Solution {
 
             max = Math.max(max, d);
 
-            if (curr.left != null) {
-                st.push(curr.left);
-                depth.push(d + 1);
-            }
-
             if (curr.right != null) {
                 st.push(curr.right);
+                depth.push(d + 1);
+            }
+            if (curr.left != null) {
+                st.push(curr.left);
                 depth.push(d + 1);
             }
         }
